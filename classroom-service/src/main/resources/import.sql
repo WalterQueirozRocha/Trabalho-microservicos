@@ -1,0 +1,1 @@
+INSERT INTO tb_classroom(id, name, capacity, description, acronym, is_available, school_id) VALUES ('4dd9d718-ab44-4f23-860c-936ab39ee69e', 'laboratory', 1, 'lab description', 'lab', TRUE, 'e71d6426-e244-4a44-8f05-e3130a9f33a9');

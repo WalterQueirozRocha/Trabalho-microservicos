@@ -1,0 +1,1 @@
+INSERT INTO tb_employees(id, name, login, email, school_id, password, role) VALUES ('174fc8b7-a5ba-4ad1-8c45-91f45be527d4', 'admin', 'admin', 'admin@gmail.com', 'e71d6426-e244-4a44-8f05-e3130a9f33a9', '$2a$10$y0TINSjJp2eC.fW1JTJMDuVlTI8UMdaEptLud/O8Jywlt4K1AaW4u', 'ADMINISTRATOR');
